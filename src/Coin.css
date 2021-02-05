@@ -108,8 +108,9 @@ section{
 }
 
 .green-text{
-    color: rgb(70, 192, 54) !important;
+    color: rgb(131, 255, 73) !important;
     /* text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.658); */
+    text-shadow: white;
     font-family: "Quicksand";
     letter-spacing: 1px;
 
