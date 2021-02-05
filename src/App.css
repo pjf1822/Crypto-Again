@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis&family=Quicksand:wght@300;500;700&display=swap');
+
+
+html, body{
+  font-family: 'Dosis', sans-serif;
+  letter-spacing: 1.6px;
+  background: linear-gradient(90deg, rgba(8,90,224,1) 21%, rgba(134,50,195,1) 100%, rgba(69,17,205,1) 100%);
+}
+
+.App{
+  height: 100%;
+
+}
+
+.App h1{
+  text-align: center;
+  color: white;
+  font-size: 3rem;
+}
